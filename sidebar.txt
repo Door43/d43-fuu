@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fuu:home|Door43 (fuu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fuu|d43-fuu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fuu/archive/master.zip|d43-fuu.zip]]
+
+**Recent Changes**
+{{changes>ns = fuu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fuu|Ethnologue data]]
+
